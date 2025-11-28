@@ -5,4 +5,4 @@
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║██║╚██╔╝██║    ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║       
 ██║  ██║███████╗███████╗███████╗╚██████╔╝    ██║██║ ╚═╝ ██║    ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
 ```
-Surprisingly, it works <a href="https://www.yankovych.dev/" rel="nofollow">yankovych.dev</a>. Check it out.
+Surprisingly, it works <a href="https://www.yankovych.dev/" target="_blank" rel="nofollow">yankovych.dev</a>. Check it out.
